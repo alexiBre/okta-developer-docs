@@ -2215,7 +2215,7 @@ curl -v -X GET \
 
 #### List apps by name
 
-Enumerates all applications by the application name
+Enumerates all apps by the app name
 
 ##### Request example
 
