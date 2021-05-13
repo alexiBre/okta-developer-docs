@@ -2213,7 +2213,7 @@ curl -v -X GET \
 ]
 ```
 
-#### List applications by the application name
+#### List apps by name
 
 Enumerates all applications by the application name
 
